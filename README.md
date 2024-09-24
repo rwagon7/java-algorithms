@@ -1,1 +1,1 @@
-# java-algorithms where I note down the my notes in course era
+# java-algorithms where I note down my lessons in course era
